@@ -1,0 +1,2 @@
+- bottom nav bar with and link at least 1 pages
+- order page when click in menu
